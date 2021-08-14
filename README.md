@@ -12,4 +12,4 @@ They both run very fast! Much faster than the original.
 ## What are the advantages or disadvantages of refactoring code?
 Refactoring code is a great way to make a program or script faster. Speed can be very important when dealing with large data or frequent use of the same script. The disadvangtage to refactoring code is that it in itself takes time as well as the possiblity of not making any improvments. Some code is easier to refactor than others as some code is not written well and hard to read. And some code is hard to make changes to because of not being written well. Whether you're going to refactor or not, its best just to write good code.
 ## How do these pros and cons apply to refactoring the original VBA script?
-The script got faster when we refactored it.
+Refactoring the script to use lists made it faster.
