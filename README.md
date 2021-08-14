@@ -5,6 +5,8 @@ of lines of code efficiently. The script creates a spreadsheet to show help how 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 ![2017](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?)
 ![2018](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?)
+![2017](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/Results_2017.png?)
+![2018](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/Results_2018.png?)
 ## Summary: In a summary statement, address the following questions.
 ## What are the advantages or disadvantages of refactoring code?
 
