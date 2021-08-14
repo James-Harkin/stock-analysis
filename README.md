@@ -6,7 +6,7 @@ of lines of code efficiently. The script creates a spreadsheet to show help how 
 They both run very fast! Much faster than the original.  
 ![2017](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?)
 ![2018](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?)
-
+2017 was a much better year to invest in oil.
 ![2017](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/Results_2017.png?)
 ![2018](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/Results_2018.png?)
 ## Summary: In a summary statement, address the following questions.
