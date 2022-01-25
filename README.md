@@ -1,7 +1,6 @@
 # stock-analysis
 ## Overview:
-Steve wanted to look into stocks for oil companies because his parents were considering investing. We prepared Steve a script that could help him analyize thousands
-of lines of code efficiently. The script creates a spreadsheet to show help how successful stocks were in a certain year.
+Steve wanted to look into stocks for oil companies because his parents were considering investing. The script he is using is too slow and he isn't getting the results he wants. We prepared Steve a script that could help him analyize thousands of lines of code efficiently. 
 ## Results:
 They both run very fast! Much faster than the original.  
 ![2017](https://github.com/James-Harkin/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?)  
